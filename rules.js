@@ -1,12 +1,3 @@
-/* Copyright (c) 2017 MIT 6.813/6.831 course staff, all rights reserved.
- * Redistribution of original or derived work requires permission of course staff.
- */
-
- /*
- *
- * This class implements the rules of Candy Crush.
- *
- */
 var Rules = function(board)
 {
   // Set during setup, to avoid scoring.
